@@ -1,3 +1,2 @@
-word="Hello World"
-for letter in word: 
+for letter in "Hello World": 
     print (letter)
