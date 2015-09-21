@@ -1,2 +1,2 @@
 for letter in "Hello World": 
-    print (letter)
+    print(letter)
